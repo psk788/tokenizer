@@ -19,7 +19,7 @@ Tokenizer is a simple GUI application for converting text into a delimited list 
 ## Installation
 Clone the repository and install dependencies:
 ```sh
-git clone https://github.com/your-repo/tokenizer.git
+git clone https://github.com/psk788/tokenizer.git
 cd tokenizer
 pip install -r requirements.txt
 ```
